@@ -26,3 +26,5 @@ Environment:
 - OTP 25.0-rc2
 - Linux shino-xps 5.16.13-arch1-1 #1 SMP PREEMPT Tue, 08 Mar 2022 20:07:36 +0000 x86_64 GNU/Linux
 
+Additional note:
+- works as expected at 25.0 rc1
